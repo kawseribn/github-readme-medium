@@ -14,7 +14,7 @@ Change the `?username=` value to your Medium's username.
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
 ```
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=Kawser Ibn)](https://medium.com/@kawser.ibn.93)
 
 ## Options
 |    Name    |           Description           |        Default value       |
