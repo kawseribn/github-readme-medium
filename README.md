@@ -11,7 +11,7 @@ Copy paste following markdown into your markdown content, and that's it. Easy Ea
 Change the `?username=` value to your Medium's username.
 
 ```md
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=Kawser Ibn)](https://medium.com/@kawser.ibn.93)
 ```
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=Kawser Ibn)](https://medium.com/@kawser.ibn.93)
